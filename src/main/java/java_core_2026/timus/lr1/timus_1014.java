@@ -1,4 +1,4 @@
-package java_core_2026.timus;
+package java_core_2026.timus.lr1;
 
 import java.util.Scanner;
 
